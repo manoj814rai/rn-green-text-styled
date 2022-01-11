@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
     height: 200,
   },
   label:{
-    color: 'red'
+    color: 'green'
   }
 })
 
